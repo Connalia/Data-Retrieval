@@ -1,2 +1,0 @@
-num_rel_ret           	all	71
-map                   	all	0.2735
